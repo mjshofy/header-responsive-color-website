@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 100%;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.5;
+  color: #fefefe;
+  overflow-x: hidden;
+  position: relative;
+}
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/*ends base*/
